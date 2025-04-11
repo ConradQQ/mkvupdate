@@ -3,11 +3,11 @@ Command line tool that programatically modifies the resolution of MKV files with
 
 Dependencies: 
 
-python3
+python3, 
 MKVToolNix
 
 USAGE EXAMPLE:
 
 Navigate to where mkvUpdate.py is located
 
-"python3 mkvUpdate.py /path/to/mkv/folder width height"
+"python3 mkvUpdate.py /path/to/mkv/folder <width> <height>"
