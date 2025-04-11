@@ -10,4 +10,4 @@ USAGE EXAMPLE:
 
 Navigate to where mkvUpdate.py is located
 
-"python3 mkvUpdate.py /path/to/mkv/folder <width> <height>"
+"python3 mkvUpdate.py /path/to/mkv/folder width height"
